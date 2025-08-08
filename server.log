@@ -1,0 +1,5 @@
+
+> workspace@1.0.0 start
+> node dist/index.js
+
+2025-08-08T17:16:40.819Z [32minfo[39m ENet server listening on 0.0.0.0:17091
